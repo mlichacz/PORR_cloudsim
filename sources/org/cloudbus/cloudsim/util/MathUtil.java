@@ -8,12 +8,12 @@
 
 package org.cloudbus.cloudsim.util;
 
-import java.util.Arrays;
-import java.util.List;
-
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 import org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression;
 import org.apache.commons.math3.stat.regression.SimpleRegression;
+
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * A class containing multiple convenient math functions.

@@ -2,10 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a6646-dafd-44f1-8183-b1295e541ba9" name="Default Changelist" comment="Środowisko">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PORR_cloudsim.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PORR_cloudsim.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/Helper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/RunnerAbstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/Dvfs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/IqrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/IqrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/IqrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/IqrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/LrrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/MadMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/MadMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/MadMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/MadRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/NonPowerAware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/PlanetLabConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/PlanetLabHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/PlanetLabRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/PlanetLabRunnerConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/ThrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/ThrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/ThrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/planetlab/ThrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/Dvfs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/IqrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/IqrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/IqrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/IqrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/LrrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/MadMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/MadMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/MadMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/MadRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/NonPowerAware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/RandomConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/RandomHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/RandomRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/ThrMc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/ThrMmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/ThrMu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/org/org/apache/commons/math3/power/random/ThrRs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/org/cloudbus/cloudsim/util/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/sources/org/cloudbus/cloudsim/util/MathUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -15,13 +67,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/org/cloudbus/cloudsim/examples/CloudSimExample9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -52,10 +107,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="cloudsim-toolkit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -67,7 +118,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -90,37 +141,13 @@
             <path>
               <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
               <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
               <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudbus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudbus" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudbus" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudsimexample9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,10 +156,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547290117888" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547309190005" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\REPO\PORR_cloudsim\examples\org\org\apache\commons\math3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,6 +178,15 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloudsimexample9.CloudSimExample9" />
+      <module name="PORR_cloudsim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -162,7 +204,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -179,7 +221,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013423" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4986577" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" visible="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,10 +244,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/org/cloudbus/cloudsim/examples/CloudSimExample8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#10947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/org/cloudbus/cloudsim/power/PowerVmSelectionPolicyMaximumCorrelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/org/cloudbus/cloudsim/util/MathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/org/apache/commons/math3/optimization/direct/NelderMeadSimplex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10979#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples/org/cloudbus/cloudsim/examples/CloudSimExample9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
