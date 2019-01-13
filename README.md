@@ -1,6 +1,14 @@
 # PORR_cloudsim
 PORR projekt - środowisko CloudSim
 
+#####################################################################
+#####                                                           #####
+##### Nasz główny projekt znajduje się w CloudSimExamplePORR.   #####
+##### Zawierać będzie główną klasę naszego zadania projektowego #####
+#####                                                           #####
+#####################################################################
+
+
 Aby odaplić RR mamy 5 plików: 
 
     1. CircularHostList.java

@@ -24,13 +24,12 @@ import org.cloudbus.cloudsim.UtilizationModelFull;
 import org.cloudbus.cloudsim.Vm;
 import org.cloudbus.cloudsim.VmSchedulerTimeShared;
 import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.lists.CloudletList;
 import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
 
 
-public class CloudSimExample9 {
+public class CloudSimExamplePORR {
 
 	/** The cloudlet list. */
 	private static List<Cloudlet> cloudletList;
@@ -66,14 +65,13 @@ public class CloudSimExample9 {
 		// Creates a container to store Cloudlets
 		LinkedList<Cloudlet> list = new LinkedList<Cloudlet>();
 
-		//TODO zmiana parametrów zadań
 		//cloudlet parameters
 		long length = 40000;
 		long fileSize = 300;
 		long outputSize = 300;
 		int pesNumber = 1;
 		UtilizationModel utilizationModel = new UtilizationModelFull();
-		Log.printLine("Lista zadań do wykonania:");
+
 		Cloudlet[] cloudlet = new Cloudlet[cloudlets];
 
 		for(int i=0;i<cloudlets;i++){
@@ -81,9 +79,8 @@ public class CloudSimExample9 {
 			// setting the owner of these Cloudlets
 			cloudlet[i].setUserId(userId);
 			list.add(cloudlet[i]);
-			//TODO wypisywanie listy utworzonych zadań do wykonania
-			Log.printLine(cloudlet);
 		}
+
 		return list;
 	}
 
@@ -92,7 +89,7 @@ public class CloudSimExample9 {
 	 * Creates main() to run this example
 	 */
 	public static void main(String[] args) {
-		Log.printLine("Starting CloudSimExample8...");
+		Log.printLine("Starting CloudSimExample9...");
 
 		try {
 			// First step: Initialize the CloudSim package. It should be called
@@ -116,7 +113,6 @@ public class CloudSimExample9 {
 			int brokerId = broker.getId();
 
 			//Fourth step: Create VMs and Cloudlets and send them to broker
-			//TODO zmiana statustycznego udowania listy VM na dynameczne - połączone z alokownaiem zasobów
 			vmList = createVM(brokerId, 5, 0); //creating 5 vms
 			cloudletList = createCloudlet(brokerId, 10, 0); // creating 10 cloudlets
 
@@ -139,6 +135,7 @@ public class CloudSimExample9 {
 			//datacenter1.printDebts();
 
 			Log.printLine(CloudSimExample9.class.getName() + " finished!");
+
 		}
 		catch (Exception e)
 		{

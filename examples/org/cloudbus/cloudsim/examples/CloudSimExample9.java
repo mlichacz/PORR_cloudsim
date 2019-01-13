@@ -89,7 +89,7 @@ public class CloudSimExample9 {
 	 * Creates main() to run this example
 	 */
 	public static void main(String[] args) {
-		Log.printLine("Starting CloudSimExample8...");
+		Log.printLine("Starting CloudSimExample9...");
 
 		try {
 			// First step: Initialize the CloudSim package. It should be called
@@ -135,6 +135,7 @@ public class CloudSimExample9 {
 			//datacenter1.printDebts();
 
 			Log.printLine(CloudSimExample9.class.getName() + " finished!");
+
 		}
 		catch (Exception e)
 		{
