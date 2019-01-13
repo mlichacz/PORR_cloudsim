@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b43a6646-dafd-44f1-8183-b1295e541ba9" name="Default Changelist" comment="Środowisko">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/org/cloudbus/cloudsim/examples/CloudSimExample9.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/org/cloudbus/cloudsim/examples/CloudSimExample9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/org/cloudbus/cloudsim/CloudSimExample9.java" beforeDir="false" afterPath="$PROJECT_DIR$/sources/org/cloudbus/cloudsim/CloudSimExample9.java" afterDir="false" />
-    </list>
+    <list default="true" id="b43a6646-dafd-44f1-8183-b1295e541ba9" name="Default Changelist" comment="Środowisko" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,7 +135,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,41 +145,6 @@
             <path>
               <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
               <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudbus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudbus" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudbus" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
               <item name="sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,18 +152,12 @@
               <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
               <item name="sources" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PORR_cloudsim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PORR_cloudsim" type="462c0819:PsiDirectoryNode" />
-              <item name="sources" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudsim" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +229,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20067114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

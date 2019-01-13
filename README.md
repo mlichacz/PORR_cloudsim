@@ -1,21 +1,7 @@
 # PORR_cloudsim
 PORR projekt - środowisko CloudSim
 
-#####################################################################
-#####                                                           #####
-##### Nasz główny projekt znajduje się w CloudSimExamplePORR.   #####
-##### Zawierać będzie główną klasę naszego zadania projektowego #####
-#####                                                           #####
-#####################################################################
-
-
-Aby odaplić RR mamy 5 plików: 
-
-    1. CircularHostList.java
-    2. CloudSimExample9.java (Main Java File)
-    3. Hosts.java
-    4. RoundRobinDataCenterBroker.java
-    5. RoundRobinVmAllocationPolicy.java
+RoundRobin - > CloudSimExample9 (source)
 
 Wszystkie wrzuciłem do \PORR_cloudsim\sources\org\cloudbus\cloudsim.
 A dodatkowo CloudSimExample9.java wrzuciłem do \PORR_cloudsim\examples\org\cloudbus\cloudsim\examples.
